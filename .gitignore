@@ -1,0 +1,6 @@
+.DS_Store
+npm-debug.log
+bower_components
+js/*
+tests/*
+notes.txt

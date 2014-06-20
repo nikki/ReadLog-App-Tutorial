@@ -1,0 +1,9 @@
+{
+  "name": "readlog-app-tutorial",
+  "version": "0.0.1",
+  "dependencies": {
+    "ratchet": "~2.0.2",
+    "jasmine": "~2.0.0"
+  },
+  "private": true
+}
